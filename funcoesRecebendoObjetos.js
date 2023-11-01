@@ -1,7 +1,7 @@
 class Pessoa {
-    nome
-    idade
-    anoDeNascimento
+  //  nome
+  //  idade
+  //  anoDeNascimento
 
     constructor(nome, idade) {
         this.nome = nome
